@@ -1,0 +1,3 @@
+Average training accuracy (with s.t.d): 0.988000 ± 0.011075
+Average testing clean set accuracy (with s.t.d): 0.975556 ± 0.015428
+Average testing noise set accuracy (with s.t.d): 0.593481 ± 0.045841
